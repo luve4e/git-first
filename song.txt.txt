@@ -8,13 +8,4 @@ And I'll sleep tomorrow
 And it won't be long
 
 
-It is experiment for branch 
-PArt 2
-
-nff merge
-
-conclict 1
-conclict 2
-
-just for tag
-
+task2
